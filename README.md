@@ -13,8 +13,8 @@ Este projeto executa uma aplicação HTML simples dentro de um container Apache 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/meu-projeto-apache.git
-cd meu-projeto-apache
+git clone https://github.com/marcelledssantos/ProjetoApache-dio.git
+cd ProjetoApache-dio
 ```
 
 2. Suba o container com Docker Compose:
